@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**konceptosociala/konceptosociala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Koncepto Sociala 🇺🇦
+Punko, volo, esperanto!
+## Ludaro
+* [Komunterio](https://github.com/komunterio)
+## Muziko
+* [Ukraina Stelo (2022)](https://github.com/#)
+## Librujo
+* [Komunterio (EO)](https://github.com/#)
+* [Komunterio (UA)](https://github.com/#)
+## Softvaro
+Nu, neniaj ideoj ĝisnune `¯\_(ツ)_/¯`
