@@ -10,11 +10,14 @@
 # 💿 Ｒｅｐｏｓ 🖥️
 
 * **Software**
-	* [**despero**](https://github.com/konceptosociala/despero) -- rusty ECS-driven game engine, being developed for `komunterio` game
-	* [**komunterio**](https://github.com/konceptosociala/komunterio)
+	* [**despero**](https://github.com/konceptosociala/despero)\* - rusty ECS-driven game engine, being developed for `komunterio` game
+	* [**komunterio**](https://github.com/konceptosociala/komunterio) - post-apocalyptic dystopian game, based on `Komunterio` novel
 * **Literature**
-	* [**Komunterio-UA**](https://github.com/konceptosociala/Komunterio-UA) -- ukrainian translation of `Komunterio` novel
-	* [**Komunterio-EO**](https://github.com/konceptosociala/Komunterio-EO)
+	* [**"Komunterio"**](https://github.com/konceptosociala/Komunterio-EO) - an original dystopian science-fictional novel about a life and war in totalitarian Esperantic state in conditions of spatio-temporal post-apocalypse
+	* [**"Комунтерія"**](https://github.com/konceptosociala/Komunterio-UA)\* - ukrainian translation of `Komunterio` novel
+	* [**"Mi (Romantiko)"**](https://github.com/konceptosociala/Mi-Romantiko) - esperanto translation of "Я (Романтика)",  novella by Mykola Khvylovy
+	
+\* - in active development
 
 # 🤖 Ｔｅｃｈｎｏｌｏｇｉｅｓ 💻
 
@@ -28,12 +31,12 @@
 <br>
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
-# 📱 Ｃｏｎｔａｃｔ ｍｅ 💬
+# 📱 Ｓｏｃｉａｌ 💬
 
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/konceptosociala/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Prior-Perspective-61/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/konceptosociala/)
 
 ---
