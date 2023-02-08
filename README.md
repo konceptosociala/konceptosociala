@@ -11,10 +11,10 @@
 
 * **Software**
 	* [**despero**](https://github.com/konceptosociala/despero)\* - rusty ECS-driven game engine, being developed for `komunterio` game
-	* [**komunterio**](https://github.com/konceptosociala/komunterio) - post-apocalyptic dystopian game, based on `Komunterio` novel
+	* [**komunterio**](https://github.com/konceptosociala/komunterio)\* - post-apocalyptic dystopian game, based on `Komunterio` novel
 * **Literature**
 	* [**"Komunterio"**](https://github.com/konceptosociala/Komunterio-EO) - an original dystopian science-fictional novel about a life and war in totalitarian Esperantic state in conditions of spatio-temporal post-apocalypse
-	* [**"Комунтерія"**](https://github.com/konceptosociala/Komunterio-UA)\* - ukrainian translation of `Komunterio` novel
+	* [**"Комунтерія"**](https://github.com/konceptosociala/Komunterio-UA) - ukrainian translation of `Komunterio` novel
 	* [**"Mi (Romantiko)"**](https://github.com/konceptosociala/Mi-Romantiko) - esperanto translation of "Я (Романтика)",  novella by Mykola Khvylovy
 	
 \* - in active development
