@@ -22,7 +22,7 @@
 # 🤖 Ｔｅｃｈｎｏｌｏｇｉｅｓ 💻
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Archcraft](https://img.shields.io/badge/Archcraft-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
