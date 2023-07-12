@@ -1,6 +1,6 @@
 # 🇺🇦 Ｋｏｎｃｅｐｔｏ Ｓｏｃｉａｌａ 🇺🇦
 
-* **The only member:** `Oleksandr Hnutov`
+* **Name:** `Oleksandr Hnutov`
 * **Website:** [https://konceptosociala.eu.org/](https://konceptosociala.eu.org/)
 * **Development fields:** gamedev, storytelling, music creation
 * **Languages:** Ukrainian, English, Esperanto
