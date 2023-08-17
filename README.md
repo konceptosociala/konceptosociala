@@ -10,14 +10,12 @@
 # 💿 Ｒｅｐｏｓ 🖥️
 
 * **Software**
-	* [**sonja**](https://github.com/konceptosociala/sonja)\* - rusty ECS-driven game engine, being developed for `komunterio` game
-	* [**komunterio**](https://github.com/konceptosociala/komunterio)\* - post-apocalyptic dystopian game, based on `Komunterio` novel
+	* [**sonja**](https://github.com/konceptosociala/sonja) - rusty ECS-driven game engine, being developed for `komunterio` game
+	* [**komunterio**](https://github.com/konceptosociala/komunterio) - post-apocalyptic dystopian game, based on `Komunterio` novel
 * **Literature**
 	* [**"Komunterio"**](https://github.com/konceptosociala/Komunterio-EO) - an original dystopian science-fictional novel about a life and war in totalitarian Esperantic state in conditions of spatio-temporal post-apocalypse
 	* [**"Комунтерія"**](https://github.com/konceptosociala/Komunterio-UA) - ukrainian translation of `Komunterio` novel
 	
-\* - in active development
-
 # 🤖 Ｔｅｃｈｎｏｌｏｇｉｅｓ 💻
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
