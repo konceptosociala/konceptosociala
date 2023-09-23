@@ -8,9 +8,9 @@
 
 # 💿 Ｒｅｐｏｓ 🖥️
 
-* [**sonja**](https://github.com/konceptosociala/sonja) - rusty ECS-driven game engine, being developed for Komunterio 
-* [**sonja-doryen**](https://github.com/konceptosociala/sonja-doryen) - high-level framework for making roguelike games 
-* [**Sonja Editor**](https://github.com/konceptosociala/SonjaEditor) - editor for Sonja game engine written with Avalonia UI 
+* [**flatbox**](https://github.com/konceptosociala/flatbox) - rusty ECS-driven game engine, being developed for Komunterio 
+* [**flatbox-doryen**](https://github.com/konceptosociala/flatbox-doryen) - high-level framework for making roguelike games 
+* [**Flatbox Editor**](https://github.com/konceptosociala/FlatboxEditor) - editor for Flatbox engine written with Avalonia UI 
 * [**Komunterio**](https://github.com/konceptosociala/komunterio) - post-apocalyptic dystopian game, based on Komunterio novel
 * [**socio**](https://github.com/konceptosociala/socio) - modern theme for Zola static website generator
 	
