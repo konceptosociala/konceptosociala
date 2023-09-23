@@ -32,7 +32,7 @@
 
 # 📱 Ｓｏｃｉａｌ 💬
 
-[! High-level framework for making roguelike games [Discord Server](https://img.shields.io/badge/Discord%20Server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksociala_official/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
