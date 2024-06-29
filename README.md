@@ -12,7 +12,7 @@
 * [**flatbox**](https://github.com/konceptosociala/flatbox) - rusty ECS-driven game engine, being developed for Komunterio
 * [**Flatbox Editor**](https://github.com/konceptosociala/FlatboxEditor) - editor for Flatbox engine written with Avalonia UI 
 * [**flatbox-doryen**](https://github.com/konceptosociala/flatbox-doryen) - high-level framework for making roguelike games 
-* [**Komunterio**](https://github.com/konceptosociala/komunterio) - post-apocalyptic dystopian game, based on Komunterio novel
+* [**Komunterio**](https://github.com/konceptosociala/Komunterio) - post-apocalyptic dystopian game, based on Komunterio novel
 	
 # 🤖 Ｔｅｃｈｎｏｌｏｇｉｅｓ 💻
 
