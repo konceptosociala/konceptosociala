@@ -8,40 +8,51 @@
 	
 # 🤖 Ｔｅｃｈｎｏｌｏｇｉｅｓ 💻
 
+## Projects & Stack
+- **[XastC](https://github.com/Xast-Games/xastc)**: (
+  ![Haskell](https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  )
+- **[Xide](https://github.com/Xast-Games/xide)**: (
+  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+  ![Scala Swing](https://img.shields.io/badge/Scala_Swing-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white")
+  )
+- **[Xast RC](https://github.com/Xast-Games/xastge-resource-center)** : (
+  ![Elm](https://img.shields.io/badge/Elm-%2360B5CC.svg?style=for-the-badge&logo=elm&logoColor=white)
+  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  )
+- **[KebabEditor](https://github.com/Xast-Games/KebabEditor)**: (
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Swing](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white")
+  ![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white)
+  )
+- **[XastGE](https://github.com/Xast-Games/kvantuma)**: (
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![Xast](https://img.shields.io/badge/𝛌_Xast-%237A76FF.svg?style=for-the-badge&logoColor=white)
+  ![WGPU](https://img.shields.io/badge/WGPU-%23990000.svg?style=for-the-badge&logo=webgpu&logoColor=white)
+  )
+- **[Transmission](https://github.com/konceptosociala/transmission)**: (
+  ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![RayLib](https://img.shields.io/badge/RAYLIB-%23FFFFFF.svg?style=for-the-badge&logo=raylib&logoColor=black)
+  )
+- **[Wgsldoc](https://github.com/konceptosociala/wgsldoc)**: (
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  )
+- **[Frago](https://github.com/konceptosociala/frago)**: (
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  )
+- **[Carol](https://github.com/konceptosociala/carol)**: (
+  ![Vala](https://img.shields.io/badge/Vala-%23734F96.svg?style=for-the-badge&logo=vala&logoColor=white)
+  ![SDL](https://img.shields.io/badge/SDL-%23fff.svg?style=for-the-badge&logo=sdl&logoColor=a90533)
+  )
+
 ## OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-## Languages
-### Main
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
-<br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-<br>
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Xast](https://img.shields.io/badge/𝝺%20Xast-%23Clojure.svg?style=for-the-badge&logoColor=Clojure)
-<br>
-![WGSL](https://img.shields.io/badge/WGSL-%23002748.svg?style=for-the-badge&logo=WGPU)
-
-### Auxiliary
-![C/C++](https://img.shields.io/badge/C%2FC++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-## Frameworks
-![GTK / Relm](https://img.shields.io/badge/GTK%20/%20Relm-black?style=for-the-badge&logo=gtk&logoColor=white)
-![egui](https://img.shields.io/badge/egui-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![.Net](https://img.shields.io/badge/Avalonia.UI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<br>
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![wgpu](https://img.shields.io/badge/wgpu-%23002748.svg?style=for-the-badge&logo=wgpu)
-
 # 📱 Ｓｏｃｉａｌ 💬
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksociala_official/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/konceptosociala/)
 
 ---
