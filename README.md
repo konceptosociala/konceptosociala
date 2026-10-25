@@ -19,7 +19,7 @@
   )
 - **[Xast RC](https://github.com/Xast-Games/xastge-resource-center)** : (
   ![Elm](https://img.shields.io/badge/Elm-%2360B5CC.svg?style=for-the-badge&logo=elm&logoColor=white)
-  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   )
 - **[KebabEditor](https://github.com/Xast-Games/KebabEditor)**: (
